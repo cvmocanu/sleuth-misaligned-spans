@@ -1,0 +1,2 @@
+# trace all calls
+spring.sleuth.sampler.probability: 1.0
